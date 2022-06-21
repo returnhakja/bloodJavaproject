@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("ggg");
 		System.out.println("test123");
 		System.out.println("시공좋아");
+		System.out.println("시공좋아");
 	}
 
 }
